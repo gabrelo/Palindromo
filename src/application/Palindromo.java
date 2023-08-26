@@ -2,7 +2,7 @@ package application;
 
 import java.util.Scanner;
 
-public class Program {
+public class Palindromo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Digite uma palavra: ");
@@ -31,3 +31,4 @@ public class Program {
         return true;
     }
 }
+
